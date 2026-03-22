@@ -27,8 +27,8 @@ import (
 	"github.com/gopxl/beep/v2/mp3"
 	"github.com/gopxl/beep/v2/speaker"
 
-	"github.com/spank-windows/detector"
-	"github.com/spank-windows/sensor"
+	"github.com/mithun-srinivasan/spank-for-windows/detector"
+	"github.com/mithun-srinivasan/spank-for-windows/sensor"
 )
 
 // ── Embedded assets ───────────────────────────────────────────────────────

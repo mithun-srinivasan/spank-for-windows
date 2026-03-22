@@ -1,4 +1,4 @@
-module github.com/spank-windows
+module github.com/mithun-srinivasan/spank-for-windows
 
 go 1.21
 
