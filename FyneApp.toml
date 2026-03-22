@@ -1,0 +1,7 @@
+Website = "https://github.com/taigrr/spank"
+Details = """
+  [Details]
+  Icon = "icon.ico"
+  Build = 1
+  Version = "1.0.0"
+"""
