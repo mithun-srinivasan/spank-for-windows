@@ -1,0 +1,7 @@
+Website = "https://github.com/mithun-srinivasan/spank-for-windows"
+Details = """
+  [Details]
+  Icon = "icon.ico"
+  Build = 1
+  Version = "1.0.0"
+"""
