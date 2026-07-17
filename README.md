@@ -164,15 +164,6 @@ See LICENSE for the full license text and attribution terms.
 
 This is an independent derivative work and is not affiliated with the original project maintainers.
 
-## Star History
-
-<a href="https://www.star-history.com/?repos=mithun-srinivasan%2Fspank-for-windows&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mithun-srinivasan/spank-for-windows&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mithun-srinivasan/spank-for-windows&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=mithun-srinivasan/spank-for-windows&type=date&legend=top-left" />
- </picture>
-</a>
 
 [badge-release]: https://img.shields.io/github/v/release/mithun-srinivasan/spank-for-windows?label=release
 [badge-license]: https://img.shields.io/github/license/mithun-srinivasan/spank-for-windows
